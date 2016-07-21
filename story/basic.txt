@@ -1,0 +1,3 @@
+As a player, I want GC to continually track my geolocation and map it to a location in the game environment.
+
+As a player, I want to direct my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
