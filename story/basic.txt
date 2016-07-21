@@ -1,3 +1,33 @@
-As a player, I want GC to continually track my geolocation and map it to a location in the game environment.
+Stories for the basic stuff -- administrivia, movement, character management
 
-As a player, I want to direct my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
+ADMINISTRATIVE - ADMIN POWERS
+As an Admin, I want to DEACTIVATE a troublesome Player's account.
+
+ADMINISTRATIVE - ACCOUNT MANAGEMENT
+As a Player, I want to CREATE a new GC account.
+As a Player, I want to LOG IN to my GC account.
+As a Player, I want to UPDATE MY PROFILE information, like username, password, and email address.
+As a Player, I want to DEACTIVATE my account.
+
+ADMINISTRATIVE - CHARACTER
+As a Player, I want to CREATE a new GC character.
+As a Player, I want to SELECT an existing character and start playing the game.
+As a Player, I want to DELETE one of my characters.
+
+SOCIAL - BASIC COMMUNICATION
+As a Player, I want to ADD another Player to my Friend list.
+As a Player, I want to REMOVE another Player from my Friend list.
+As a Player, I want to BLOCK another Player from communicating with me.
+As a Player, I want to REPORT another Player for disruptive activity.
+As a Player, I want to TELL a message to a Player on my Friend list.
+As a Player, I want to SHOUT a message to Players in my immediate area.
+
+SOCIAL - CLANS
+As a Player, I want to CHARTER A CLAN to facilitate communication and cooperation with other Players in the clan.
+As a Player, I want to JOIN A CLAN that another Player has started.
+As a Clan Founder, I want to MANAGE CLAN MEMBERS, giving them rights and responsibilities commensurate with their rank.
+As a Clan Member, I want to SEND A MESSAGE 
+
+MOVEMENT
+As a Player, I want GC to continually track my geolocation and map it to a location in the game environment.
+As a Player, I want to direct my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
