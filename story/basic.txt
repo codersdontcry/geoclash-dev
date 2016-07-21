@@ -26,8 +26,12 @@ SOCIAL - CLANS
 As a Player, I want to CHARTER A CLAN to facilitate communication and cooperation with other Players in the clan.
 As a Player, I want to JOIN A CLAN that another Player has started.
 As a Clan Founder, I want to MANAGE CLAN MEMBERS, giving them rights and responsibilities commensurate with their rank.
-As a Clan Member, I want to SEND A MESSAGE 
+As a Clan Member, I want to SEND A MESSAGE to the rest of my clan.
 
-MOVEMENT
-As a Player, I want GC to continually track my geolocation and map it to a location in the game environment.
-As a Player, I want to direct my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
+WORLD - MOVEMENT
+As a Player, I want GC to continually TRACK my geolocation and map it to a location in the game environment.
+As a Player, I want to DIRECT my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
+
+WORLD - TERRITORY
+As a Player, I want to PLANT A FLAG near a location to indicate that it's an area that I frequent.
+As a Player, I want my character to be able to TRAVEL to a location with sufficient Personal or Public Renown.
