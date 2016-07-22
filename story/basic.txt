@@ -1,37 +1,43 @@
-Stories for the basic stuff -- administrivia, movement, character management
+Stories for the basic stuff -- administrivia, movement, Character management
 
 ADMINISTRATIVE - ADMIN POWERS
-As an Admin, I want to DEACTIVATE a troublesome Player's account.
+  As an Admin, I want to DEACTIVATE a troublesome Player's account.
 
 ADMINISTRATIVE - ACCOUNT MANAGEMENT
-As a Player, I want to CREATE a new GC account.
-As a Player, I want to LOG IN to my GC account.
-As a Player, I want to UPDATE MY PROFILE information, like username, password, and email address.
-As a Player, I want to DEACTIVATE my account.
+  As a Player, I want to CREATE a new GC account.
+  As a Player, I want to LOG IN to my GC account.
+  As a Player, I want to UPDATE MY PROFILE information, like username, password, and email address.
+  As a Player, I want to DEACTIVATE my account.
 
-ADMINISTRATIVE - CHARACTER
-As a Player, I want to CREATE a new GC character.
-As a Player, I want to SELECT an existing character and start playing the game.
-As a Player, I want to DELETE one of my characters.
+ADMINISTRATIVE - Character
+  As a Player, I want to CREATE a new GC Character.
+  As a Player, I want to SELECT an existing Character and start playing the game.
+  As a Player, I want to DELETE one of my Characters.
 
 SOCIAL - BASIC COMMUNICATION
-As a Player, I want to ADD another Player to my Friend list.
-As a Player, I want to REMOVE another Player from my Friend list.
-As a Player, I want to BLOCK another Player from communicating with me.
-As a Player, I want to REPORT another Player for disruptive activity.
-As a Player, I want to TELL a message to a Player on my Friend list.
-As a Player, I want to SHOUT a message to Players in my immediate area.
+  As a Player, I want to ADD another Player to my Friend list.
+  As a Player, I want to REMOVE another Player from my Friend list.
+  As a Player, I want to BLOCK another Player from communicating with me.
+  As a Player, I want to REPORT another Player for disruptive activity.
+  As a Player, I want to TELL a message to a Player on my Friend list.
+  As a Player, I want to SHOUT a message to Players in my immediate area.
 
 SOCIAL - CLANS
-As a Player, I want to CHARTER A CLAN to facilitate communication and cooperation with other Players in the clan.
-As a Player, I want to JOIN A CLAN that another Player has started.
-As a Clan Founder, I want to MANAGE CLAN MEMBERS, giving them rights and responsibilities commensurate with their rank.
-As a Clan Member, I want to SEND A MESSAGE to the rest of my clan.
+  As a Player, I want to CHARTER A CLAN to facilitate communication and cooperation with other Players in the clan.
+  As a Player, I want to JOIN A CLAN that another Player has started.
+  As a Clan Founder, I want to MANAGE CLAN MEMBERS, giving them rights and responsibilities commensurate with their rank.
+  As a Clan Member, I want to SEND A MESSAGE to the rest of my clan.
 
 WORLD - MOVEMENT
-As a Player, I want GC to continually TRACK my geolocation and map it to a location in the game environment.
-As a Player, I want to DIRECT my avatar to move around the game environment, restricted to within a certain radius of my actual geolocation.
+  As a Player, I want GC to continually TRACK my geolocation and map it to a location in the game environment.
+  As a Player, I want to DIRECT my Character to move freely around the game environment.
+  As the Game Master, I want a Character to be penalized if it moves too far from its Player's location.
+  As a Player, I want my Character to TRAVEL to the location of a Friend so that I can join his or her Party.
 
 WORLD - TERRITORY
-As a Player, I want to PLANT A FLAG near a location to indicate that it's an area that I frequent.
-As a Player, I want my character to be able to TRAVEL to a location with sufficient Personal or Public Renown.
+  As a Player, I want to PLANT A FLAG near a Location to indicate that it's an area that I frequent.
+  As a Player, I want my Character to TRAVEL to a Location with sufficient Personal or Public Renown.
+  As a Player, I want to expend resources to FORTIFY a Location against attack by the Enemy.
+  
+WORLD - HOSTILE ENTITIES
+  As the Game Master, 
