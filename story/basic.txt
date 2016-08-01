@@ -1,7 +1,13 @@
 Stories for the basic stuff -- administrivia, movement, Character management
 
+ADMINISTRATIVE - SERVER LOGIC
+  As the Server, I want to LOCK a Player's account after repeated failed login attempts.
+  As the Server, I want to MUTE a Player for a short time if they spam messages in a communication channel.
+  
 ADMINISTRATIVE - ADMIN POWERS
   As an Admin, I want to DEACTIVATE a troublesome Player's account.
+  As an Admin, I want to TRAVEL to a Player's location in-game.
+  As an Admin, I want to REVIEW chat logs to help resolve Player disputes.
 
 ADMINISTRATIVE - ACCOUNT MANAGEMENT
   As a Player, I want to CREATE a new GC account.
@@ -31,8 +37,10 @@ SOCIAL - CLANS
 WORLD - MOVEMENT
   As a Player, I want GC to continually TRACK my geolocation and map it to a location in the game environment.
   As a Player, I want to DIRECT my Character to move freely around the game environment.
-  As the Game Master, I want a Character to be penalized if it moves too far from its Player's location.
   As a Player, I want my Character to TRAVEL to the location of a Friend so that I can join his or her Party.
+  As the Game Master, I want a Character to be DEBUFFED if it moves too far from its Player's location.  
+  As the Game Master, I want to DISABLE THE DEBUFF on Characters who are partying with a Friend.
+  As the Game Master, I want to DISABLE THE DEBUFF on Characters who have purchased a Lazy Mode Pass.
 
 WORLD - TERRITORY
   As a Player, I want to PLANT A FLAG near a Location to indicate that it's an area that I frequent.
@@ -40,4 +48,7 @@ WORLD - TERRITORY
   As a Player, I want to expend resources to FORTIFY a Location against attack by the Enemy.
   
 WORLD - HOSTILE ENTITIES
-  As the Game Master, 
+  As the Game Master, I want to SPAWN ENEMY STRONGHOLDS throughout the land.
+  As the Game Master, I want to periodically FORTIFY Enemy Strongholds.
+  As the Game Master, I want to SPAWN ENEMY MOBS near Strongholds, in an area whose size is directly proportional to the Rank of the Stronghold, and whose power is directly proportional to the Rank of the Stronghold.
+  As the Game Master, I want to SPAWN NEUTRAL CRITTERS throughout the land, of types that are appropriate to the Location in whih they spawn.
