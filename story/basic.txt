@@ -34,21 +34,37 @@ SOCIAL - CLANS
   As a Clan Founder, I want to MANAGE CLAN MEMBERS, giving them rights and responsibilities commensurate with their rank.
   As a Clan Member, I want to SEND A MESSAGE to the rest of my clan.
 
-WORLD - MOVEMENT
+WORLD - BASIC MOVEMENT
   As a Player, I want GC to continually TRACK my geolocation and map it to a location in the game environment.
   As a Player, I want to DIRECT my Character to move freely around the game environment.
-  As a Player, I want my Character to TRAVEL to the location of a Friend so that I can join his or her Party.
-  As the Game Master, I want a Character to be DEBUFFED if it moves too far from its Player's location.  
-  As the Game Master, I want to DISABLE THE DEBUFF on Characters who are partying with a Friend.
-  As the Game Master, I want to DISABLE THE DEBUFF on Characters who have purchased a Lazy Mode Pass.
 
-WORLD - TERRITORY
-  As a Player, I want to PLANT A FLAG near a Location to indicate that it's an area that I frequent.
+WORLD - FRIENDLY TERRITORY
+  As a Player, I want to BUILD A SHELTER at a Location to mark it as my Home.
+  As a Player, I want to PLANT A FLAG near a Location to mark it as an area that I frequent, increasing its Personal Renown.
+  As a Player, I want to expend resources to FORTIFY my Home, increasing its Rank.
+  As a Player, I want to expend resources to FORTIFY a Location against attack by the Enemy, increasing its Rank.
+  As the GM, I want to CONSOLIDATE Locations as their Population increases.
+    Hamlet -> Village -> Town -> City
+  As a Player, when my Location is consolidated into the next larger size, I want to SUGGEST A NAME for the new unit.
+  As the GM, I want to UPGRADE Locations as their Rank increases.
+
+WORLD - ADVANCED MOVEMENT
+  As a Player, I want my Character to TRAVEL to my Home Base.
   As a Player, I want my Character to TRAVEL to a Location with sufficient Personal or Public Renown.
-  As a Player, I want to expend resources to FORTIFY a Location against attack by the Enemy.
+  As a Player, I want my Character to TRAVEL to the location of a Friend so that I can join his or her Party.
+  
+
+WORLD - CONQUEST
+  As the GM, I want a Character to be PENALIZED if it moves too far from its Player's location.  
+  As the GM, I want to DISABLE THE PENALTY on Characters who are partying with a Friend.
+  As the GM, I want to DISABLE THE PENALTY on Characters who have purchased a Lazy Mode Pass.
+
+
   
 WORLD - HOSTILE ENTITIES
-  As the Game Master, I want to SPAWN ENEMY STRONGHOLDS throughout the land.
-  As the Game Master, I want to periodically FORTIFY Enemy Strongholds.
-  As the Game Master, I want to SPAWN ENEMY MOBS near Strongholds, in an area whose size is directly proportional to the Rank of the Stronghold, and whose power is directly proportional to the Rank of the Stronghold.
-  As the Game Master, I want to SPAWN NEUTRAL CRITTERS throughout the land, of types that are appropriate to the Location in whih they spawn.
+  As the GM, I want to SPAWN ENEMY STRONGHOLDS throughout the land.
+  As the GM, I want to periodically FORTIFY Enemy Strongholds, increasing their Rank.
+  As the GM, I want to SPAWN ENEMY MOBS near Strongholds...
+    in an area whose size is directly proportional to the Rank of the Stronghold
+    and whose power is directly proportional to the Rank of the Stronghold.
+  As the GM, I want to SPAWN NEUTRAL CRITTERS throughout the land, of types that are appropriate to the Location in whih they spawn.
